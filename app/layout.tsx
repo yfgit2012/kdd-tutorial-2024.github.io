@@ -4,8 +4,8 @@ import './globals.css';
 import Navbar from './components/Navbar';
 
 export const metadata: Metadata = {
-  title: 'KDD Workshop 2024',
-  description: 'KDD Workshop 2024',
+  title: 'KDD Tutorial 2024',
+  description: 'KDD Tutorial 2024',
 };
 
 const font = Lato({
