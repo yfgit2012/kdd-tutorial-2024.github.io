@@ -36,7 +36,7 @@ const Navbar = () => {
           text-neutral-100
           "
           >
-            KDD Workshop 2024
+            KDD Tutorial 2024
           </div>
         </div>
       </div>
